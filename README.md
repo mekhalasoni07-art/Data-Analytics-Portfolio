@@ -9,7 +9,7 @@ Welcome to my portfolio! This repository showcases projects in **Excel, SQL, and
 - Objective: Analyze employee attrition patterns to support HR decision-making.
 - Tools: Power BI, DAX measures, interactive slicers.
 - Outcome: Identified high-risk employee groups and retention strategies.
-[View Project PDF](./HR-Analytics/HR-Attrition-Dashboard.pdf)
+
 
 ### Upcoming Projects
 - SQL Project – HR Attrition Analysis (in progress)

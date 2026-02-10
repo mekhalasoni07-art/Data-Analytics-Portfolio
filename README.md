@@ -3,15 +3,18 @@
 
 Welcome to my portfolio! This repository showcases projects in **Excel, SQL, and Power BI** that demonstrate my analytical thinking and problem-solving skills.
 
-## Projects
-- **Retail Sales Dashboard (Power BI)**  
-  Analyzed 50K+ transactions to identify regional profit gaps and sales trends.
+## Portfolio Projects
 
-- **HR Attrition Analysis (SQL + Excel)**  
-  Built queries and dashboards to understand employee turnover patterns.
+### HR Analytics Attrition Dashboard (Power BI)
+- Objective: Analyze employee attrition patterns to support HR decision-making.
+- Tools: Power BI, DAX measures, interactive slicers.
+- Outcome: Identified high-risk employee groups and retention strategies.
+[View Project PDF](./HR-Analytics/HR-Attrition-Dashboard.pdf)
 
-- **Customer Segmentation (Excel)**  
-  Grouped customers by purchase behavior to highlight marketing opportunities.
+### Upcoming Projects
+- SQL Project – HR Attrition Analysis (in progress)
+- Excel Project – E-commerce Sales Dashboard (in progress)
+
 
 ## About Me
 - B.Tech in Civil Engineering (2019–2023)  

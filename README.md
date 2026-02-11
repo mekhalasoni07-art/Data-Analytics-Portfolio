@@ -10,6 +10,21 @@ Welcome to my portfolio! This repository showcases projects in **Excel, SQL, and
 - Tools: Power BI, DAX measures, interactive slicers.
 - Outcome: Identified high-risk employee groups and retention strategies.
 
+**###🔧  Pizza sales project (SQL) Database Schema**
+Schema: pizzahut
+The schema consists of four relational tables:
+- orders → order_id, date, time (basic order info)
+- orders_details → order_details_id, order_id, pizza_id, quantity (link between orders and pizzas)
+- pizzas → pizza_id, size, price (pizza attributes)
+- pizza_types → pizza_type_id, name, category, ingredients (pizza descriptions)
+
+- Key Outcomes
+- Demonstrated SQL proficiency across basic, intermediate, and advanced queries
+- Translated raw transactional data into actionable insights
+- Built a foundation for presenting results in a professional format (Canva presentation)
+
+
+
 
 ### Upcoming Projects
 - SQL Project – HR Attrition Analysis (in progress)

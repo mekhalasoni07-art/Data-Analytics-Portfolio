@@ -1,0 +1,21 @@
+# Excel Project – Vrinda Store Data Analysis
+
+## Overview
+This project analyzes Vrinda Store’s 2026 sales data using Excel.  
+Steps included:
+- Data cleaning and preprocessing
+- Pivot table creation
+- Dashboard visualization
+- Insights and recommendations
+
+## Dashboard Preview
+![Dashboard](Dashboard.png)
+
+## Insights
+- Women contributed 64% of sales
+- Maharashtra, Karnataka, and Uttar Pradesh were top states
+- Adults (30–49 years) made ~50% of orders
+- Amazon, Flipkart, and Myntra were leading channels
+- 92% of orders delivered successfully
+
+**Conclusion:** Focus marketing on women aged 30–49 in top states via Amazon, Flipkart, and Myntra.

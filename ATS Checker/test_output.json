@@ -1,0 +1,93 @@
+{
+  "job_description_skills": [
+    "AWS",
+    "Docker",
+    "Machine Learning",
+    "SQL",
+    "Python",
+    "Git"
+  ],
+  "resume_skills": [
+    "AWS",
+    "Docker",
+    "Machine Learning",
+    "SQL",
+    "Python",
+    "Git"
+  ],
+  "skill_assessments": {
+    "AWS": {
+      "level": "Intermediate",
+      "confidence": 0.7,
+      "evidence": "Based on resume experience"
+    },
+    "Docker": {
+      "level": "Intermediate",
+      "confidence": 0.7,
+      "evidence": "Based on resume experience"
+    },
+    "Machine Learning": {
+      "level": "Intermediate",
+      "confidence": 0.7,
+      "evidence": "Based on resume experience"
+    },
+    "SQL": {
+      "level": "Intermediate",
+      "confidence": 0.7,
+      "evidence": "Based on resume experience"
+    },
+    "Python": {
+      "level": "Intermediate",
+      "confidence": 0.7,
+      "evidence": "Based on resume experience"
+    },
+    "Git": {
+      "level": "Intermediate",
+      "confidence": 0.7,
+      "evidence": "Based on resume experience"
+    }
+  },
+  "identified_gaps": [],
+  "suggested_adjacent_skills": [],
+  "learning_plan": {
+    "total_duration_weeks": 0,
+    "modules": [],
+    "weekly_schedule": {
+      "week_1": {
+        "focus_modules": [],
+        "total_hours": 0,
+        "milestones": [
+          "Complete week 1 objectives for active modules"
+        ]
+      },
+      "week_2": {
+        "focus_modules": [],
+        "total_hours": 0,
+        "milestones": [
+          "Complete week 2 objectives for active modules"
+        ]
+      },
+      "week_3": {
+        "focus_modules": [],
+        "total_hours": 0,
+        "milestones": [
+          "Complete week 3 objectives for active modules"
+        ]
+      },
+      "week_4": {
+        "focus_modules": [],
+        "total_hours": 0,
+        "milestones": [
+          "Complete week 4 objectives for active modules"
+        ]
+      }
+    },
+    "success_metrics": [
+      "Complete all learning modules within estimated timeframes",
+      "Build and deploy a portfolio project incorporating learned skills",
+      "Pass technical interviews for target skills",
+      "Receive positive feedback on skill application in projects",
+      "Achieve proficiency reassessment showing improvement"
+    ]
+  }
+}

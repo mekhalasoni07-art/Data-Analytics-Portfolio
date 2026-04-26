@@ -1,0 +1,42 @@
+Jane Smith
+Junior Python Developer
+
+Contact: jane.smith@email.com | (555) 987-6543 | linkedin.com/in/janesmith
+
+Professional Summary:
+Motivated software developer with 1 year of Python experience. Eager to learn data science and machine learning. Background in web development with some database knowledge.
+
+Skills:
+- Programming: Python, JavaScript
+- Web Development: Flask, HTML, CSS
+- Databases: MySQL basics
+- Tools: Git
+- Other: Linux basics
+
+Experience:
+
+Junior Developer
+WebDev Solutions, 2023-Present
+- Developed simple Python scripts for data processing
+- Built basic web applications with Flask
+- Created MySQL database queries
+- Used Git for version control
+
+Intern
+Tech Startup, 2022-2023
+- Assisted with JavaScript frontend development
+- Learned basic Python programming
+- Helped with database setup
+
+Education:
+Bachelor of Science in Computer Science
+State University, 2019-2023
+
+Projects:
+- Simple Blog: Flask web application
+- Data Processor: Python script for CSV files
+- Personal Website: HTML/CSS/JavaScript
+
+Certifications:
+- Python Basics (Codecademy)
+- Introduction to SQL (freeCodeCamp)

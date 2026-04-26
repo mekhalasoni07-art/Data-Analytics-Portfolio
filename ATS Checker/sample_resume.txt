@@ -1,0 +1,45 @@
+John Doe
+Python Developer
+
+Contact: john.doe@email.com | (555) 123-4567 | linkedin.com/in/johndoe
+
+Professional Summary:
+Experienced software developer with 2 years of Python development. Passionate about data analysis and machine learning. Strong foundation in computer science with practical experience in web development and data processing.
+
+Skills:
+- Programming: Python, Java, JavaScript
+- Data Science: pandas, numpy, matplotlib
+- Web Development: Flask, Django basics
+- Databases: MySQL, SQLite
+- Tools: Git, Docker basics, Jupyter Notebook
+- Other: Linux, Bash scripting
+
+Experience:
+
+Software Developer
+Tech Solutions Inc., 2022-Present
+- Developed Python applications for data processing
+- Built REST APIs using Flask
+- Created data visualization dashboards with matplotlib
+- Collaborated with team using Git version control
+- Deployed applications using Docker containers
+
+Junior Developer
+StartupXYZ, 2021-2022
+- Assisted in Python script development
+- Learned SQL database queries
+- Contributed to web application features
+- Participated in code reviews
+
+Education:
+Bachelor of Science in Computer Science
+University of Technology, 2017-2021
+
+Projects:
+- Data Analysis Dashboard: Python app with pandas and matplotlib
+- Weather API: Flask-based REST API
+- Personal Blog: Django web application (basic)
+
+Certifications:
+- Python for Data Science (Coursera)
+- SQL Fundamentals (Udemy)

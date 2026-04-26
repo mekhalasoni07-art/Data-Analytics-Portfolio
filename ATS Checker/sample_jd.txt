@@ -1,0 +1,27 @@
+Senior Python Developer
+
+We are looking for an experienced Python developer to join our data science team.
+
+Requirements:
+- 3+ years of Python development experience
+- Strong knowledge of data structures and algorithms
+- Experience with machine learning frameworks (scikit-learn, TensorFlow, PyTorch)
+- Proficiency in SQL and database design
+- Experience with cloud platforms (AWS preferred)
+- Knowledge of Docker and containerization
+- Familiarity with Git and version control
+- Understanding of RESTful APIs and microservices
+- Experience with data visualization tools (matplotlib, seaborn, plotly)
+
+Nice to have:
+- Experience with big data tools (Spark, Hadoop)
+- Knowledge of CI/CD pipelines
+- Understanding of DevOps practices
+- Experience with React or other frontend frameworks
+
+Responsibilities:
+- Develop and maintain Python applications
+- Build machine learning models for data analysis
+- Design and implement APIs
+- Work with cross-functional teams
+- Mentor junior developers

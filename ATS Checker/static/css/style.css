@@ -1,0 +1,142 @@
+.hero-section {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 3rem 0;
+    margin-bottom: 2rem;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border: none;
+    border-radius: 25px;
+    padding: 12px 30px;
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.form-section {
+    background: #f8f9fa;
+    border-radius: 10px;
+    padding: 2rem;
+    margin: 1rem 0;
+}
+
+.file-upload {
+    border: 2px dashed #dee2e6;
+    border-radius: 10px;
+    padding: 2rem;
+    text-align: center;
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.file-upload:hover {
+    border-color: #667eea;
+    background-color: #f8f9ff;
+}
+
+.file-upload input[type="file"] {
+    opacity: 0;
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+
+.feature-card {
+    text-align: center;
+    padding: 1.5rem;
+    margin: 1rem 0;
+}
+
+.feature-icon {
+    font-size: 2.5rem;
+    color: #667eea;
+    margin-bottom: 1rem;
+}
+
+.results-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 2rem 0;
+    margin-bottom: 2rem;
+}
+
+.skill-badge {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    margin: 0.25rem;
+}
+
+.skill-expert { background-color: #28a745; color: white; }
+.skill-advanced { background-color: #20c997; color: white; }
+.skill-intermediate { background-color: #ffc107; color: black; }
+.skill-beginner { background-color: #dc3545; color: white; }
+
+.gap-critical { background-color: #dc3545; color: white; }
+.gap-high { background-color: #fd7e14; color: white; }
+.gap-medium { background-color: #ffc107; color: black; }
+.gap-low { background-color: #28a745; color: white; }
+
+.resource-card {
+    border-left: 4px solid #667eea;
+    background-color: #f8f9ff;
+}
+
+.progress-custom {
+    height: 8px;
+    border-radius: 4px;
+}
+
+.timeline {
+    position: relative;
+    padding-left: 30px;
+}
+
+.timeline::before {
+    content: '';
+    position: absolute;
+    left: 15px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: #dee2e6;
+}
+
+.timeline-item {
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+.timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -22px;
+    top: 5px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #667eea;
+    border: 2px solid white;
+}
+
+#jsonContainer {
+    display: none;
+}
+
+#jsonContainer.visible {
+    display: block;
+}
